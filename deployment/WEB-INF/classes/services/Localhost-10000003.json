@@ -1,7 +1,7 @@
 {
   "@class" : "org.apereo.cas.services.RegexRegisteredService",
   "serviceId" : "^http://localhost:\\d{2,4}/.*",
-  "name" : "10000002",
+  "name" : "Localhost",
   "theme" : "apereo",
   "id" : 10000003,
   "description" : "Development environment",

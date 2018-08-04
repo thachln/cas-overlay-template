@@ -5,5 +5,5 @@
   "theme" : "apereo",
   "id" : 10000002,
   "description" : "LocalNetwork portal",
-  "evaluationOrder" : 1
+  "evaluationOrder" : 2
 }
