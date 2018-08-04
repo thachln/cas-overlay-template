@@ -1,0 +1,9 @@
+{
+  "@class" : "org.apereo.cas.services.RegexRegisteredService",
+  "serviceId" : "^http://nginx.localnetwork.com/.*",
+  "name" : "LocalNetwork",
+  "theme" : "apereo",
+  "id" : 10000002,
+  "description" : "LocalNetwork portal",
+  "evaluationOrder" : 1
+}

@@ -1,0 +1,8 @@
+{
+  "@class" : "org.apereo.cas.services.RegexRegisteredService",
+  "serviceId" : "^(http|https|imaps)://mekongsolution.com/.*",
+  "name" : "MekongSolution",
+  "id" : 10000001,
+  "description" : "MekongSolution Authentication Center.",
+  "evaluationOrder" : 10000
+}
